@@ -1,0 +1,4 @@
+C:\Users\Acer\Desktop\Chatters\Common\bin\Debug\Person.dll
+C:\Users\Acer\Desktop\Chatters\Common\bin\Debug\Person.pdb
+C:\Users\Acer\Desktop\Chatters\Common\obj\Debug\Person.dll
+C:\Users\Acer\Desktop\Chatters\Common\obj\Debug\Person.pdb
